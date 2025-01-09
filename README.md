@@ -1,5 +1,7 @@
 This is a React application which uses the Pokedex API to fetch data and dynamically update the data on the screen.
 The app is also responsive to mobile screen sizes.
+This app is styled with FantaCSS
+
 
 # React + Vite
 
