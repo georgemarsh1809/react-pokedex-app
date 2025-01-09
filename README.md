@@ -1,3 +1,6 @@
+This is a React application which uses the Pokedex API to fetch data and dynamically update the data on the screen.
+The app is also responsive to mobile screen sizes.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
